@@ -19,6 +19,9 @@ The folder contains the "Main-Program" Folder. Enter the folder and run the file
 you can run each file with these commands:
 
 mpiexec -n 1 ./g
+
 mpiexec -n 1 ./g2
+
 mpiexec -n 3 ./gp
+
 mpiexec -n 3 ./gp2
